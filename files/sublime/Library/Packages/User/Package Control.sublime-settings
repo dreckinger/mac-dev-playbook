@@ -1,24 +1,32 @@
 {
-	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Ansible",
+		"AnsibleSnippets",
+		"BracketHighlighter",
 		"DashDoc",
-		"DocBlockr",
-		"Dockerfile Syntax Highlighting",
-		"Drupal Snippets",
+		"Diffy",
+		"DNS Lookups",
 		"FileDiffs",
-		"GitHub Flavored Markdown Preview",
-		"Jinja2",
-		"MarkAndMove",
-		"Markdown Preview",
+		"FileHeader",
+		"Git",
+		"GitGutter",
+		"JSON Reindent",
 		"Package Control",
+		"PerlTidy",
+		"Pretty JSON",
 		"Puppet",
-		"RegReplace",
-		"Sass",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter",
-		"TrailingSpaces",
-		"WordCount",
-		"Xdebug Client"
+		"SublimeREPL",
+		"SublimeXiki",
+		"Theme - Soda",
+		"Vintageous"
 	]
 }
